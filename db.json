@@ -1,7 +1,9 @@
 
-{"Planner":[{
+{"Planner":
+ {
 "nfvsdnui": "25",
 "jbp": "15",
 "ipbmui": "20",
 "sdwan": "15" 
-}]}
+}
+}
